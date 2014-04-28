@@ -1,0 +1,6 @@
+require 'test/unit'
+require_relative 'shop_test.rb'
+require_relative 'product_test'
+require_relative 'discounted_product_test'
+require_relative 'free_product_test'
+require_relative 'shopper_test.rb'
